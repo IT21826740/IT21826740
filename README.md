@@ -1,3 +1,4 @@
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif)
 <h1 align="center">Hi 👋, I'm K.D.Dilini</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
