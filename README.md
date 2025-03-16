@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Improving my coding skills, particularly in languages like Python and JavaScript.**
 
-- 💬 Ask me about **HTML , CSS , PHP ,React**
+- 💬 Ask me about **Java , Springboot , Docker ,MySQL**
 
 - 📫 How to reach me **k.d.dilinik.a.c.r.e.2016@gmail.com**
 
