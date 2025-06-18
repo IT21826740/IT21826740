@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN stack , R , kotlin , java , Mobile application development**
 
-- 🤝 I’m looking for help with **Improving my coding skills, particularly in languages like Python and JavaScript.**
+- 🤝 I’m looking for help with **Improving my coding skills, particularly in languages like Java and Springboot.**
 
 - 💬 Ask me about **Java , Springboot , Docker ,MySQL**
 
