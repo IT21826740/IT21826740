@@ -1,22 +1,42 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&center=true&vCenter=true&width=800&height=100&lines=Hey+there!+👋;Welcome+to+my+GitHub!+🚀;I'm+Dilini,+a+passionate+developer!+💻;Let’s+build+something+awesome+together!+✨">
+  </a>
+</h1>
+
+
+<br />
+
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif)
 <h1 align="center">Hi 👋, I'm K.D.Dilini</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
-<p align="left"> 
+<h1 align="center">Hi there 👋, I'm K.D. Dilini</h1>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21826740&label=Profile%20views&color=0e75b6&style=flat" alt="it21826740" /> </p>
 
-- 🌱 I’m currently learning **MERN stack , R , kotlin , java , Mobile application development**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IT21826740&label=Profile%20views&color=0e75b6&style=flat" alt="IT21826740" />
+</p>
 
-- 🤝 I’m looking for help with **Improving my coding skills, particularly in languages like Java and Springboot.**
+- 🔭 I’m currently working on **enterprise-level full-stack applications** using Java Spring Boot and React.
 
-- 💬 Ask me about **Java , Springboot , Docker ,MySQL**
+- 🌱 Currently exploring: **Microservices, RabbitMQ, Docker, JWT, Flyway, and Advanced Testing (JUnit, Mockito, Integration Testing)**
 
-- 📫 How to reach me **k.d.dilinik.a.c.r.e.2016@gmail.com**
+- 💼 Internship Experience: **Zerocode- English School System** — developed modules like Staff, Attendance, Payment, and Discounts.
 
-- ⚡ Fun fact **I think I am funny**
+- 🛠️ Tech stack includes: **Java, Spring Boot, React, MySQL, SwaggerUI, Docker, Jira, SonarQube, and more.**
+
+- 💬 Ask me about: **Spring Boot Architecture, Clean Code Practices, Integration Testing, Git Collaboration**
+
+- 📫 Reach me at: **k.d.dilinik.a.c.r.e.2016@gmail.com**
+
+- ⚡ Fun fact: **If I had a superpower, it’d be solving merge conflicts without crying 😅**
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,7 +105,7 @@
 
   <hr />
 
-<br /><br /><br /><br /><br /><br />
+<br />
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
