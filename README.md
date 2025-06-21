@@ -68,3 +68,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21826740&show_icons=true&locale=en" alt="it21826740" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21826740&" alt="it21826740" /></p>
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+
+  <hr />
+
+<br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IT21826740&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IT21826740&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="dilini's contribution graph" />
+    </picture>
+  </a>
+</p>
+
+<hr />
