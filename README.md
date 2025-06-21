@@ -20,7 +20,7 @@
 
 - 🌱 Currently exploring: **Microservices, RabbitMQ, Docker, JWT, Flyway, and Advanced Testing (JUnit, Mockito, Integration Testing)**
 
-- 💼 Internship Experience: **Zerocode- English School System** — developed modules like Staff, Attendance, Payment, and Discounts.
+- 💼 Internship Experience: **Zerocode Software Company - contributed to an Italian-based English School Management System** — developing core modules like Staff, Attendance, Payment, and Discount Plans.
 
 - 🛠️ Tech stack includes: **Java, Spring Boot, React, MySQL, SwaggerUI, Docker, Jira, SonarQube, and more.**
 
